@@ -101,7 +101,7 @@ header {
 
 .inputtextarea {
 	width: 100%;
-	max-height: 330px;
+	max-height: 300px;
 	min-height: 50px;
 	background: transparent;
 	border: none;
@@ -228,11 +228,9 @@ footer {
 	color: white;
     font-family: var(--fuente-montserrat);
 	font-size: 14px;
+	padding: 10px;
 }
-.usuario{
-	color: var(--color-lightBlue2);
-	font-style: italic;
-}
+
 .links{
 	width: 35px;
 }
